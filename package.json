@@ -1,0 +1,12 @@
+{
+  "name": "electron-user-table",
+  "version": "1.0.0",
+  "description": "Проект на Electron с таблицей \"Пользователи\" и формой добавления",
+  "main": "src/main.js",
+"scripts": {
+  "start": "electron src/main.js"
+},
+  "dependencies": {
+    "electron": "^20.0.0"
+  }
+}
